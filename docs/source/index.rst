@@ -19,7 +19,7 @@ With the recent update to mBlock 5.0, TinyLab now allows programming with Scratc
    :maxdepth: 1
    :caption: Contents:
 
-   What is REX 8in1? <rex>
+   Tinylab Guide <Tinylab-Guide>
    ArmBot <armbot>
    BalanceBot <balancebot>
    OmniBot <omnibot>
