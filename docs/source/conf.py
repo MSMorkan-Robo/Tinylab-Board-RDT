@@ -5,10 +5,10 @@
 
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
-project = 'REX-RDT'
-copyright = '2023, REX-V2'
-author = 'REX'
-release = '2.0'
+project = 'Tinylab-RDT'
+copyright = '2024, Tinylab'
+author = 'Tinylab'
+release = '1.0'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
