@@ -1,10 +1,10 @@
 #############################################
-Welcome to REX Documentation
+# Tinylab Board
 #############################################
 
-REX, also known as Robotistan Education X, is the world's most affordable, creative, educational, and high-quality educational robot. It is a robot kit produced with Robotistan license, which is transformable and upgradable. REX - 8 in 1, with its unique design that stands out worldwide, has a structure that leaves its competitors behind with its easy-to-code interface and effective content. With this kit, you will have a transformable robot with the features you dream of. This kit was designed to be enjoyed and learned from by makers aged 9+ who are interested in coding, electronics, and mechanics.
+TinyLab is an electronic board that contains commonly used components in prototyping. At its core, it features Arduino, enabling easy access to all the equipment needed for prototyping such as modules, circuit elements, sensors, etc., with Arduino codes.
 
-.. image:: /../_static/armbot2.gif
+.. image:: /../_static/tinylab-min.gif
 
 REX is an educational robot kit developed by Robotistan R&D team. 8 in 1 robot kit, with its motherboard using the ESP32 infrastructure, eliminates the difficulties encountered in circuit setup such as port connection point and cable confusion Nonetheless, Arduino IDE, Thonny IDE and MicroBlocks IDE provide the user with great flexibility in programming.
 
