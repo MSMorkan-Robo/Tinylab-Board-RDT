@@ -1,5 +1,5 @@
 #############################################
-# Tinylab Board
+Tinylab Board
 #############################################
 
 TinyLab is an electronic board that contains commonly used components in prototyping. At its core, it features Arduino, enabling easy access to all the equipment needed for prototyping such as modules, circuit elements, sensors, etc., with Arduino codes.
