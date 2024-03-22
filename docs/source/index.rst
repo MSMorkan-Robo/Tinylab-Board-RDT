@@ -19,13 +19,8 @@ Click `here`_ to access the Tinylab Guide.
    :maxdepth: 1
    :caption: Contents:
 
-   ArmBot <armbot>
-   BalanceBot <balancebot>
-   OmniBot <omnibot>
-   RoverBot <roverbot>
-   Wi-Bot <wibot>
-   SonicBot <sonicbot>
-   Components <components/components>
+   Let's Get To Know Tinylab <what-is-tinylab/what-is-tinylab>
+
 
 
    
