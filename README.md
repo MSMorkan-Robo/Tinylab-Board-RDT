@@ -1,2 +1,2 @@
-# Tinylab-Board-RDT
+Tinylab-Board-RDT
 Tinylab Board
