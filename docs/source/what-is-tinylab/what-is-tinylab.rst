@@ -1,4 +1,6 @@
+#############################################
 Let's Get To Know Tinylab
+#############################################
 
 With your Arduino board, you can create new projects by using additional components such as circuit elements, motors, sensors, communication modules, etc. In order to assemble circuits using these components, we use a breadboard. Additionally, if you intend to use your Arduino more project-focused, there are "shields" available, which are pre-built circuits designed to be mounted on top of the Arduino board for the specific needs of your project.
 During the learning phase, circuits are typically built on a breadboard. Connections with Arduino are established, and often, due to a common learning curve, the circuit may not work initially due to a connection error, which is a natural part of the learning process that can happen to anyone.
