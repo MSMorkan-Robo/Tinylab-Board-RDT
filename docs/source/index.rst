@@ -16,8 +16,7 @@ Click `here`_ to access the Tinylab Guide.
    
 
 .. toctree::
-   :maxdepth: 1
-   :caption: Contents:
+
    Let's Get To Know Tinylab <what-is-tinylab/what-is-tinylab>
 
 
