@@ -24,7 +24,6 @@ exclude_patterns = []
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 extensions = [
-    ...
     'readthedocs_sphinx_theme',
 ]
 
