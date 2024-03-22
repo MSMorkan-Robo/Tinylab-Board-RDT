@@ -19,7 +19,6 @@ Click `here`_ to access the Tinylab Guide.
    :maxdepth: 1
    :caption: Contents:
 
-   Tinylab Guide <Tinylab-Guide>
    ArmBot <armbot>
    BalanceBot <balancebot>
    OmniBot <omnibot>
