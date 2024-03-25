@@ -14,7 +14,10 @@ With the recent update to mBlock 5.0, TinyLab now allows programming with Scratc
 Click `here`_ to access the Tinylab Guide.
 
 .. _here: https://github.com/Robotistan/Tinylab-Board/blob/main/Tinylab%20Guide/tinylab-book.pdf
-   
+
+##############
+Contents
+##############
 
 .. toctree::
 
