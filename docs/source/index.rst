@@ -22,6 +22,8 @@ Contents
 .. toctree::
 
    Let's Get To Know Tinylab <what-is-tinylab/what-is-tinylab>
+   Tinylab Test Code <test-code/test-code>
+
 
 
 
