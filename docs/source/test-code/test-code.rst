@@ -9,9 +9,11 @@ You can access the test code used for tinylab, NRF, and XBee below.
 
 
 
+###############################
+Tinylab Test Code Contents
+###############################
+
 .. toctree::
-    :maxdepth: 1
-    :caption: Tinylab Test Code Contents:
     
      Tinylab Test Code <test-code>
      NRF Test Code <nrf-test>
