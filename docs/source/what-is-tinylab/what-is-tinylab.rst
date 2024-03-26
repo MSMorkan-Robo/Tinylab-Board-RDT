@@ -13,22 +13,20 @@ To address such problems, the Tinylab Arduino module has been designed. It featu
 
 As a platform that hosts Arduino Leonardo, Tinylab facilitates development by incorporating various sensors. Tinylab prototyping platform includes:
 
-- Segment Display
-- LCD Screen
-- EEPROM
-- ESP8266
-- Relay
-- XBee Modules
-- Bluetooth
-- MicroSD
-- Temperature Sensor
-- Photoresistor
-- Potentiometer
-- Buzzer
-- DC Motor Driver
-- Button
-- LED
-- RTC
-- nRF24xx
+
+
++---------------------+-----------------+----------------------+
+| - 7-Segment Display | - LCD Display   | - EEPROM             |  
++---------------------+-----------------+----------------------+
+| - ESP8266           | - Relay         | - XBee Modules       | 
++---------------------+-----------------+----------------------+
+| - Bluetooth         | - MicroSD       | - Temperature Sensor |  
++---------------------+-----------------+----------------------+
+| - Photoresistor     | - Potentiometer | - Buzzer             | 
++---------------------+-----------------+----------------------+
+| - DC Motor Driver   | - Button        | - LED                |  
++---------------------+-----------------+----------------------+
+| - RTC               | - Buzzer        | 
++---------------------+-----------------+
 
 In addition to these sensors, you can also utilize the breadboard on Tinylab for your different projects, providing convenience and ease of testing for IoT applications and various projects.
