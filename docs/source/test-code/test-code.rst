@@ -8,11 +8,6 @@ You can access the test code used for tinylab, NRF, and XBee below.
 
 
 
-
-###############################
-Tinylab Test Code Contents
-###############################
-
 .. toctree::
      NRF Test Code <nrf-test>
      XBee Test Code <xbee-test>
