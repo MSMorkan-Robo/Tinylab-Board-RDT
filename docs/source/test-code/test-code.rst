@@ -14,12 +14,8 @@ Tinylab Test Code Contents
 ###############################
 
 .. toctree::
-    
-     Tinylab Test Code <test-code>
      NRF Test Code <nrf-test>
      XBee Test Code <xbee-test>
-
-
 
 
 
