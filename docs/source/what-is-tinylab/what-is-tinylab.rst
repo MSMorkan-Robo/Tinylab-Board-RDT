@@ -26,7 +26,7 @@ As a platform that hosts Arduino Leonardo, Tinylab facilitates development by in
 +---------------------+-----------------+----------------------+
 | - DC Motor Driver   | - Button        | - LED                |  
 +---------------------+-----------------+----------------------+
-| - RTC               | - Buzzer        | 
-+---------------------+-----------------+
+| - RTC               | - Buzzer        |                      |
++---------------------+-----------------+----------------------+
 
 In addition to these sensors, you can also utilize the breadboard on Tinylab for your different projects, providing convenience and ease of testing for IoT applications and various projects.
